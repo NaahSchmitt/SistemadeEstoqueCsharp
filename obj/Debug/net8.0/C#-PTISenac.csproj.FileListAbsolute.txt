@@ -1,0 +1,14 @@
+C:\Users\natie\Documents\C#-PTISenac\bin\Debug\net8.0\C#-PTISenac.exe
+C:\Users\natie\Documents\C#-PTISenac\bin\Debug\net8.0\C#-PTISenac.deps.json
+C:\Users\natie\Documents\C#-PTISenac\bin\Debug\net8.0\C#-PTISenac.runtimeconfig.json
+C:\Users\natie\Documents\C#-PTISenac\bin\Debug\net8.0\C#-PTISenac.dll
+C:\Users\natie\Documents\C#-PTISenac\bin\Debug\net8.0\C#-PTISenac.pdb
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.AssemblyInfoInputs.cache
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.AssemblyInfo.cs
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.csproj.CoreCompileInputs.cache
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.dll
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\refint\C#-PTISenac.dll
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.pdb
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\C#-PTISenac.genruntimeconfig.cache
+C:\Users\natie\Documents\C#-PTISenac\obj\Debug\net8.0\ref\C#-PTISenac.dll
